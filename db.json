@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "name": "Tapish sharma",
+      "age": "23",
+      "gender": "Male",
+      "salary": "1234",
+      "mobile": "23456",
+      "image": "https://via.placeholder.com/150",
+      "department": "STORE",
+      "id": 3
+    }
+  ]
+}
