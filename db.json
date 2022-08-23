@@ -11,7 +11,7 @@
       "id": 3
     }
   ],
-  "data": [
+  "country": [
     {
       "country": "Afghanistan",
       "city": "Kabul"
@@ -988,5 +988,6 @@
       "country": "Zimbabwe",
       "city": "Harare"
     }
-  ]
+  ],
+  "data": []
 }
